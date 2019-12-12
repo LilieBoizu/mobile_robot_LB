@@ -1,5 +1,5 @@
 Mobile Robot 
-Projet de programmation avancée, code d'origine par Olivier Kermorgant 
+Projet de programmation avancée, code d'origine par Olivier Kermorgant (https://github.com/oKermorgant)
 
 Objectifs : - Faire en sorte qu'un robot suive une trajectoire cible
             - Lui faire adapter sa trajectoire pour éviter les murs (intégration de capteurs de distance) 
